@@ -102,3 +102,19 @@ dist
 
 # TernJS port file
 .tern-port
+
+.vscode
+
+.env.local
+
+.env.development
+
+.env.production
+
+public/mockServiceWorker.js
+
+#  certification
+*.crt
+*.key
+
+.DS_Store
